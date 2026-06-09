@@ -9,5 +9,8 @@ cd e-queue-node-js-backend
 npm install
 npm start
 
+API Бекенду: http://localhost:8080
+Візуалізація БД: http://localhost:8080/db-view
+
 Посилання на відповідний frontend-сервер
 https://github.com/LeaveMeAlone403/e-queue-frontend
